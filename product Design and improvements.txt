@@ -1,0 +1,20 @@
+Design Process
+
+
+--> Certificate maker 
+--> PDF template -> done 
+--> sheets se data fetch -> done
+--> type on pdf -> done 
+--> save pdf -> done 
+--> node mailer -> done
+--> email pdf with meta data -> done
+
+Further Improvements
+
+--> Cross verification of data to registered paid user data
+--> global count variable to maintain (in a file) excel list count till which certificate emails are done so that script runs for only new entries.
+--> Coding practices improvements
+--> UX oriented html email template for email body
+
+
+

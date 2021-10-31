@@ -1,0 +1,2 @@
+<h1>Congratulations on completing your internship</h1>
+<p>This mail is regarding the appointment certificate for the programme you are engaged in. Kindly refer to the under attached file for your certificate. This mail is just for demonstration purposes sent via script for FJP1 hackathon.</p>
